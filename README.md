@@ -1,3 +1,6 @@
+This design is derived from Adafruit's PowerBoost-500 Charger PCB (See attribution below).  The design removes the breakout headers and changes the
+USB female connector to a JST M2 right angle connector.
+
 Adafruit-PowerBoost-500-Charger-PCB
 =================================
 
